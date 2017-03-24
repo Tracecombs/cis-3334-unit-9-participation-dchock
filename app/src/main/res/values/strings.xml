@@ -5,6 +5,10 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="action_add">add</string>
+    <string name="action_delete">delete</string>
+    <string name="action_email">email</string>
+    <string name="action_SMS">SMS</string>
     <string name="dorothy_vaughan">Dorothy Vaughan</string>
     <string name="katherine_g_johnson">Katherine G. Johnson</string>
     <string name="mary_jackson">Mary Jackson</string>
